@@ -6,7 +6,6 @@ PolarBear was a 5 day project created using Agile methodology.
 
 
 ## Technologies
-===
 Polar Makes Use of:
   - **Handlebars** as its client side templating engine.
   - **MVC and OO Javascript** as its primary design patterns.
